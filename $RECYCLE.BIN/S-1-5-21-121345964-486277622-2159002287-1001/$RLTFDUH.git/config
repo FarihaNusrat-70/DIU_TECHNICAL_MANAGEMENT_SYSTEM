@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/ahasanulswe2704/Diu_Technical_management_System.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
